@@ -1,7 +1,7 @@
 # Budgety
 
 #### What is Budgety ?<br/>
-Budgety is a web application where one individual can track the available budget for a month depending on updating the income and expenses.
+Budgety is a web application where an individual can track the available budget for a month depending on updating the income and expenses.
 
 #### Implementation:
 The user interface elements are implemented by using HTML and CSS which are divided into:
