@@ -4,7 +4,7 @@
 Budgety is a web application where an individual can track the available budget for a month depending on updating the income and expenses.
 
 #### Implementation:
-The user interface elements are implemented by using HTML and CSS which are divided into:
+The user interface elements are implemented by using HTML and CSS which are divided into :
 * Container for a top section which holds:
   * Background image.
   * Displaying available budget for the current month.
@@ -15,7 +15,7 @@ The user interface elements are implemented by using HTML and CSS which are divi
   * Which has a dropdown with values + and - to select income or expenses respectively.
   * The text holder to add a description for respective costs.
   * The amount of value for an income or expense.
-  * Submit button to accept those values
+  * Submit button to accept those values.
 
 * Container to display Individual value:
   * The income and expenses are individually displayed.
@@ -39,10 +39,11 @@ UIController deals with manipulating the HTML DOM elements which include display
  
 #### BudgetController
 Budget Controller has two function constructor for Expense and income which handles the id, description values with calculating and getting percentages as prototypes.
-The BudgetController is responsible for returning the functions for calculating budget and percentages upon every item operation
+The BudgetController is responsible for returning the functions for calculating budget and percentages upon every item operation.
   
 #### Skills Learnt:
 * Dividing the whole functionalities into individual module controllers.
 * IIFE for encapsulation.
 * Prototype Chain, Hoisting, Scope Chain, Closures, Array Methods - ForEach, Map, DOM Manipulations, Event Delegation - Event Bubbling.
+
 ###### Note: This project has been implemented as a part of Udemy - The Complete JavaScript Course 2019: Build Real World Projects
