@@ -21,7 +21,7 @@ The user interface elements are implemented by using HTML and CSS which are divi
   * The income and expenses are individually displayed.
   * A delete button to delete the values.
 
-The functionalities for the interface are implemented by using JavaScript
+The functionalities for the interface are implemented by using JavaScript:
 #### Tasks:
   * To read, display and delete based on the input values for individual types (income and expenses).
   * To individual calculate the total income and expenses values and display in the DOM elements.
